@@ -1,0 +1,3 @@
+/Users/himchon/CLionProjects/comp9024_logistics/cmake-build-debug/CMakeFiles/comp9024_logistics.dir
+/Users/himchon/CLionProjects/comp9024_logistics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/himchon/CLionProjects/comp9024_logistics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
